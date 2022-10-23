@@ -26,8 +26,8 @@ body {
   display: block;
   white-space: nowrap; /*espacios en blanco no romper la linea*/
   border-right: 4px solid;
-  width: 17ch; /*el 28 indica la cantida de letras que hay con espacios*/
-  animation: typing 5s steps(21) infinite, blink .5s infinite step-end alternate;
+  width: 23ch; /*el 28 indica la cantida de letras que hay con espacios*/
+  animation: typing 5s steps(23) infinite, blink .5s infinite step-end alternate;
   overflow: hidden;
 }
 
@@ -248,7 +248,7 @@ body {
   }
   .efecto {
     
-    width: 15ch; 
+    width: 23ch; 
   }
   
   
